@@ -1,0 +1,16 @@
+p {
+    text-size:32px;
+    text-align: center;
+}
+body{
+    background-color: #FFFFFF;
+}
+form{
+    background-color:#1A0F8D;
+}
+label{
+    border-radius:3px;
+}
+label:after{
+    content:":";
+}
